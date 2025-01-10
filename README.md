@@ -4,6 +4,7 @@
 🌱 Aspiring Software Developer | 💻 CS Student | 🛠️ Backend Enthusiast
 </p>
 ---
+
 ## My skills
 - Passionate about building scalable web applications and solving complex backend challenges.
 - Currently pursuing my Computer Science Masters, with hands-on experience in:
