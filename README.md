@@ -1,7 +1,8 @@
 # About Me
 
-👋 Hi, I'm Josh Bassett!
+<p>👋 Hi, I'm Josh Bassett!
 🌱 Aspiring Software Developer | 💻 CS Student | 🛠️ Backend Enthusiast
+</p>
 ---
 ## My skills
 - Passionate about building scalable web applications and solving complex backend challenges.
