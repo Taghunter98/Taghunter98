@@ -3,6 +3,7 @@
 <p>👋 Hi, I'm Josh Bassett!
 🌱 Aspiring Software Developer | 💻 CS Student | 🛠️ Backend Enthusiast
 </p>
+
 ---
 
 ## My skills
