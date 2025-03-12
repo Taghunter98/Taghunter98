@@ -1,20 +1,19 @@
-# About Me
+# About Me  
 
-<p>👋 Hi, I'm Josh Bassett!
-🌱 Aspiring Software Developer | 💻 CS Student | 🛠️ Backend Enthusiast
-</p>
+Hi, I'm **Josh Bassett**—a Computer Science master's student and aspiring software developer with a strong focus on backend development. I enjoy building scalable web applications and solving complex backend challenges.  
 
----
+## My Skills  
 
-## My skills
-- Passionate about building scalable web applications and solving complex backend challenges.
-- Currently pursuing my Computer Science Masters, with hands-on experience in:
-    - Python (Flask, RESTful APIs, data processing)
-    - SQL (MySQL/Aurora RDS, database design)
-    - Java (Spring Boot, OOP Principles, Maven & Gradle)
-    - Git/GitHub (version control and collaborative development)
-    - Web frontend technologies (JavaScript, HTML/CSS)
-- Continuously learning and exploring cloud technologies (AWS) and best practices in software development.
-- Previous experience as UX Desginer, working in an Agile SAAS company
+- **Full-Stack Development** – Experienced in designing and developing web applications with a backend focus.  
+- **Programming Languages**  
+  - **Python** – Flask, RESTful APIs, data processing  
+  - **Java** – Spring Boot, OOP principles, Maven & Gradle  
+  - **SQL** – MySQL, Aurora RDS, database design  
+- **Web Development** – JavaScript, HTML, CSS  
+- **Version Control** – Git, GitHub, collaborative development  
+- **Cloud & DevOps** – Exploring AWS services and cloud best practices  
+- **Previous Experience** – Former UX Designer in an Agile SaaS company, blending design and development  
 
-📫 Let’s connect! Feel free to check out my projects and share your feedback. 🚀
+## Let's Connect  
+
+Check out my projects, and feel free to reach out with feedback or collaboration ideas!  
