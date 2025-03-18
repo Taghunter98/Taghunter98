@@ -1,6 +1,6 @@
 # About Me  
 
-Hi, I'm **Josh Bassett**—a Computer Science master's student and aspiring software developer with a strong focus on backend development. I enjoy building scalable web applications and solving complex backend challenges.  
+Hi, I'm Josh, a Computer Science master's student and aspiring software developer with a strong focus on backend development. I enjoy building scalable web applications and solving complex backend challenges.  
 
 ## My Skills  
 
